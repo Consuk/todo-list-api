@@ -22,7 +22,7 @@ API diseñada para gestionar una lista de tareas pendientes (To-Do List). Permit
    npm install
     ```
 3. **Configurar variables de entorno:**
-    archivo .env
+    archivo .env (crear archivo, ya que subirlo es una mala práctica de seguridad)
    ```bash
    port= 3000
    JWT_SECRET = constanza
